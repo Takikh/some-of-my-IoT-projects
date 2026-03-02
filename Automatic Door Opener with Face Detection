@@ -1,0 +1,20 @@
+: Automatic Door Opener with Face Detection
+Problem Statement:
+Traditional door locks are prone to security risks and require
+physical interaction.
+Objective:
+Build a smart access system that uses facial recognition to
+automatically unlock doors.
+Requirements:
+Raspberry Pi (or laptop for testing)
+USB Camera
+OpenCV (Python) for face detection
+Servo Motor
+Jumper wires, battery pack
+Expected Outcome:
+A face-based automatic door opener—enhancing security and
+offering a hands-free access solution.
+
+Simulation link :
+
+https://wokwi.com/projects/440724792534666241
