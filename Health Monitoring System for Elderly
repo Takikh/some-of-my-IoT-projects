@@ -1,0 +1,20 @@
+ Health Monitoring System for Elderly
+Problem Statement:
+Elderly people often live alone and lack immediate access to
+health monitoring and emergency alerts.
+Objective:
+Create a system that monitors pulse rate, temperature, and fall
+detection, and sends alerts if abnormalities are detected.
+Requirements:
+NodeMCU ESP8266
+Pulse Sensor
+DHT11 Sensor
+MPU6050 Accelerometer (for fall detection)
+Blynk or ThingSpeak
+Expected Outcome:
+A compact wearable system that sends health status and
+emergency alerts to caregivers or medical professionals.
+
+Simulation link :
+
+https://wokwi.com/projects/440724854729911297
