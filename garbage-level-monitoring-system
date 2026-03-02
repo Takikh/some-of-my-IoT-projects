@@ -1,0 +1,21 @@
+
+Problem Statement:
+Unmonitored garbage bins often overflow, causing health and
+hygiene issues in urban areas.
+Objective:
+Develop an IoT system that monitors garbage bin levels using an
+ultrasonic sensor and sends alerts when the bin is full.
+Requirements:
+NodeMCU or ESP32
+Ultrasonic Sensor (HC-SR04)
+Jumper wires, breadboard
+Battery pack
+IoT dashboard (Blynk/ThingSpeak)
+Expected Outcome:
+A real-time smart waste management prototype that alerts
+municipal teams to clean full bins, improving urban cleanliness.
+
+Simulation link :
+
+https://wokwi.com/projects/440724969806942209
+
