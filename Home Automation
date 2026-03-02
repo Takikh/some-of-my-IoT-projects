@@ -1,0 +1,22 @@
+Home Automation Using NodeMCU & Blynk
+Problem Statement:
+Manual control of home appliances is inconvenient and lacks
+remote access functionality.
+Objective:
+Create a home automation system using NodeMCU and Blynk to
+control appliances like lights and fans remotely.
+Requirements:
+NodeMCU ESP8266
+2-Channel or 4-Channel Relay Module
+LED bulbs (or simulate with LEDs)
+Blynk App (Android/iOS)
+Jumper wires, breadboard
+Power supply
+Expected Outcome:
+A fully functional remote-controlled system that switches
+appliances ON/OFF via smartphone.
+
+Simulation link :
+
+https://wokwi.com/projects/440724352572047361
+
