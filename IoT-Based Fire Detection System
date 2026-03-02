@@ -1,0 +1,21 @@
+IoT-Based Fire Detection System
+Problem Statement:
+Fire accidents cause major property loss due to lack of early
+warnings in homes and small offices.
+Objective:
+Develop a fire detection system using gas and temperature
+sensors that alert users with buzzer and mobile notifications.
+Requirements:
+Arduino Uno or NodeMCU
+MQ-2 Gas/Smoke Sensor
+DHT11 Temperature Sensor
+Buzzer
+LEDs
+Blynk or IFTTT for phone alerts
+Expected Outcome:
+A prototype that activates local alarms and sends alerts to the
+user’s phone when fire or gas is detected.
+
+Simulation link :
+
+https://wokwi.com/projects/440724478660177921
