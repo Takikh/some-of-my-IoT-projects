@@ -1,20 +1,35 @@
- Health Monitoring System for Elderly
-Problem Statement:
-Elderly people often live alone and lack immediate access to
-health monitoring and emergency alerts.
-Objective:
-Create a system that monitors pulse rate, temperature, and fall
-detection, and sends alerts if abnormalities are detected.
-Requirements:
-NodeMCU ESP8266
-Pulse Sensor
-DHT11 Sensor
-MPU6050 Accelerometer (for fall detection)
-Blynk or ThingSpeak
-Expected Outcome:
-A compact wearable system that sends health status and
-emergency alerts to caregivers or medical professionals.
+❤️‍🩹👴 Health Monitoring System for Elderly
 
-Simulation link :
+📌 Problem Statement:
+Elderly people often live alone and lack immediate access to health monitoring
+and emergency alerts. Delayed detection of health issues can be life-threatening. 🚨💔
 
+🎯 Objective:
+Create a wearable IoT system that continuously monitors pulse rate 💓,
+body temperature 🌡️, and fall detection 🤸, and sends instant alerts
+if abnormalities are detected — keeping loved ones safe! 🛡️
+
+🛠️ Hardware & Software Requirements:
+• 📶 NodeMCU ESP8266 (Wi-Fi microcontroller)
+• 💓 Pulse Sensor (heart rate monitoring)
+• 🌡️ DHT11 Sensor (body/ambient temperature)
+• 📐 MPU6050 Accelerometer & Gyroscope (for fall detection)
+• 📱 Blynk or ThingSpeak (cloud dashboard & notifications)
+
+🔬 How It Works:
+1️⃣ Sensors continuously read pulse rate, temperature, and motion data
+2️⃣ Data is processed by NodeMCU and sent to the cloud ☁️
+3️⃣ If heart rate is abnormal ⚠️ or a fall is detected 🆘, an emergency alert is sent
+4️⃣ Caregivers and medical professionals receive real-time notifications 📲
+
+🏆 Expected Outcome:
+A compact, wearable health monitoring system that provides peace of mind 🧘
+to families by sending real-time health status and emergency alerts
+to caregivers or medical professionals. A true life-saver! 🏥💪
+
+💡 Technologies Used: ESP8266 | Pulse Sensor | DHT11 | MPU6050 | Blynk | IoT Cloud
+
+🔗 Simulation Link:
 https://wokwi.com/projects/440724854729911297
+
+👨‍💻 Author: Khelfat Takieddine
