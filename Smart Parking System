@@ -1,0 +1,22 @@
+Smart Parking System
+Problem Statement:
+Finding parking space in cities is difficult due to the absence of
+real-time slot monitoring.
+Objective:
+Design a parking management system that uses IR sensors to
+detect free slots and display them on a dashboard.
+Requirements:
+Arduino Uno or NodeMCU
+IR Proximity Sensors (1 per slot)
+LCD Display or Web Dashboard
+Jumper wires, breadboard
+Wi-Fi module (ESP8266)
+Expected Outcome:
+A working smart parking model that detects empty slots and
+updates their status in real-time on a digital display or web
+interface.
+
+Simulation link :
+
+https://wokwi.com/projects/440724624923961345
+
